@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "food",
-    "slug": "food",
+    "slug": "test1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "341df711-0a21-4eb4-a260-7e0fe99f88f7"
+      }
+    },
+    "owner": "yors"
   }
 }
